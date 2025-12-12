@@ -1,4 +1,4 @@
-# 🔐 Secure File Transfer (Client-Server Project)
+# 🔐 Encrypted File Transfer System (Client-Server Project)
 
 A cross-language secure file transfer application built with **C++** (Client) and **Python** (Server).  
 This project enables encrypted file exchange over a network using **RSA**, **AES**, and **CRC** mechanisms  
